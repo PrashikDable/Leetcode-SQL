@@ -43,7 +43,7 @@ Output:
 +---------+-----------+-------------------------+
 
 SOLUTION:
-
 SELECT *
 FROM USERS
 WHERE MAIL REGEXP '^[A-Za-z][a-zA-Z0-9_.-]*@leetcode[.]com';
+
